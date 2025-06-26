@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 -   **Live Demo**: [Coming Soon]
 -   **Documentation**: [Coming Soon]
--   **Smart Contract**: [Starkscan](https://testnet.starkscan.co/contract/0x049329191e5adb38e49f96020312b6115bba958817970a764405d669636f7a54)
+-   **Smart Contract**: [voyager-sepolia](https://sepolia.voyager.online/contract/0x049329191e5adb38e49f96020312b6115bba958817970a764405d669636f7a54)
 -   **Discord**: [Join our community](https://discord.gg/voyageai)
 
 ## 🙏 Acknowledgments
