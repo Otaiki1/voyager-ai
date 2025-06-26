@@ -1,3 +1,4 @@
+"use client";
 import { constants } from "starknet";
 import { sepolia, mainnet, Chain } from "@starknet-react/chains";
 import {
